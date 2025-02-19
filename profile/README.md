@@ -1,86 +1,81 @@
-## 🚀 **GitFilter**
+# 🚀 GitFilter
 
-### Building a platform to Filter, search & discover high-quality GitHub repositories & contributors  
+### Building a Platform to Filter, Search & Discover High‑Quality GitHub Repositories & Contributors
 
----
-
-## 🛠 **Key Features**  
-
-### 🔍 **Advanced Search & Filtering**  
-- Find templates by **tech stack** (Next.js, React, Django, Node.js, etc.).  
-- Filter by **license** (MIT, GPL, proprietary, etc.).  
-- Sort by **popularity, latest uploads, or trending templates**.  
-
-### 📖 **Instant Auto generated Documentation for everyone**  
-- Automatically fetch **md files** from the repo for documentation.  
-- Allow users to preview **setup guides & instructions** before downloading.  
-
-### 🔥 **Trending & Recommended Templates**  
-- Weekly rankings based on **GitHub stars & forks**.  
-- AI-based recommendations for users based on past downloads & activity.  
-
-### 🚀 **User Profiles & Contributions**  
-- Users can **upload & manage** their own GitHub templates.  
-- A **beautiful GitHub-linked profile** showcasing contributions & uploads.  
-
-### 🔒 **Monetizing Private Repositories: Sell your thing**  
-- Developers can list **premium templates** as private repos.  
-- Option to sell access or subscriptions for advanced project templates.  
-
-### ⚡ **Discovering High-Quality Repositories**  
-- A curated section for **handpicked, high-quality GitHub projects**.  
-- Helps solve the **problem of finding good repos** in a huge ecosystem.  
+GitFilter is a next‑gen hub for developers to explore amazing open‑source projects, showcase their portfolios, join vibrant communities, and even access AI‑powered recommendations. Whether you’re here to contribute or build your own projects, GitFilter is designed to supercharge your open‑source journey!
 
 ---
 
-## 💡 **Why Build This?**  
-✅ **GitHub is huge**, and finding quality starter projects is difficult.  
-✅ Helps **new developers start projects faster** with the right templates.  
-✅ Supports **open-source collaboration & monetization** for template creators.  
+## 📑 Table of Contents
+
+- [Key Features](#key-features)
+  - [Advanced Search & Filtering](#advanced-search--filtering)
+  - [Instant Auto‑generated Documentation](#instant-auto-generated-documentation)
+  - [Trending & Recommended Templates](#trending--recommended-templates)
+  - [User Profiles & Contributions](#user-profiles--contributions)
+  - [Monetizing Private Repositories](#monetizing-private-repositories)
+  - [Discovering High‑Quality Repositories](#discovering-high-quality-repositories)
+  - [AI‑Powered Enhancements](#ai-powered-enhancements)
+- [Why Build This?](#why-build-this)
+- [Getting Started](#getting-started)
+- [Contribution Guidelines](#contribution-guidelines)
+- [Tech Stack](#tech-stack)
+- [License & Trademark](#license--trademark)
+- [Join the Community](#join-the-community)
+- [Stay Updated](#stay-updated)
 
 ---
 
-## 🏗 **Want to Contribute?**
+## 🔑 Key Features
 
-We are building something exciting with **Next.js, Tailwind CSS, Storybook, TurboRepo, Vercel, SupaBase, and Shadcn/UI**! This project is open-source under the **AGPL license**, and we invite developers, designers, and contributors from all backgrounds to join us in making it a success. 
+### Advanced Search & Filtering
+- **Find templates** by tech stack (Next.js, React, Django, Node.js, etc.).
+- Filter by **license** (MIT, GPL, proprietary, etc.).
+- Sort results by **popularity, latest uploads, or trending templates**.
 
-## 🚀 How to Get Started on GitHub
-1. **Fork the Repository** – Click on the **Fork** button on GitHub to create your copy.
-2. **Clone Your Fork** – Use `git clone https://github.com/your-username/project-name.git`
-3. **Create a Branch** – Run `git checkout -b feature/your-feature-name`
-4. **Install Dependencies** – Run `pnpm install` (or `npm install`/`yarn install` if you prefer)
-5. **Start the Development Server** – Run `pnpm dev` and start coding!
-6. **Commit and Push** – Use `git commit -m "feat: added awesome feature"`, then `git push origin feature/your-feature-name`
-7. **Create a Pull Request** – Open a PR on GitHub and describe your changes.
+### Instant Auto‑generated Documentation
+- Automatically fetch Markdown files from repositories.
+- Preview **setup guides & instructions** before downloading.
 
-## 📜 Contribution Guidelines
-- Follow the **AGPL** license terms.
-- Keep PRs **small and focused** for easier review.
-- Use **conventional commits** (e.g., `feat:`, `fix:`, `docs:`).
-- Maintain **code consistency** using Prettier & ESLint.
-- Write **unit tests** if applicable.
-- Update documentation for new features.
+### Trending & Recommended Templates
+- Weekly rankings based on **GitHub stars & forks**.
+- **AI‑based recommendations** that learn from your past downloads & activity.
 
-## 🛠 Tech Stack
-- **Framework:** Next.js (App Router)
-- **Styling:** Tailwind CSS + Shadcn/UI
-- **Component Library:** Storybook
-- **Database:** SupaBase
-- **Monorepo Management:** TurboRepo
-- **Hosting:** Vercel
-- **Version Control:** GitHub
+### User Profiles & Contributions
+- Create a **beautiful, GitHub‑linked profile** showcasing your skills, projects, and contributions.
+- Manage and update your portfolio with code samples, repositories, and project highlights.
 
-## 💬 Join the Community
-We value collaboration and innovation! Share your thoughts, ask questions, and connect with contributors on **GitHub Discussions** and our [Discord](#) (coming soon!).
+### Monetizing Private Repositories
+- List **premium templates** as private repositories.
+- Sell access or subscriptions for advanced project templates.
 
-## 🔗 Stay Updated
-Follow us for the latest updates:
-- [GitHub](https://github.com/git-filter)
-- [Twitter/X](https://x.com/gitfilter)
-- [Instagram](https://www.instagram.com/gitfilter/)
-- [YouTube](https://www.youtube.com/@GitFilter)
-- [Website](https://www.GitFilter.com)
+### Discovering High‑Quality Repositories
+- A curated section for **handpicked, high‑quality GitHub projects**.
+- Quickly solve the challenge of finding the right projects in a massive ecosystem.
+
+### AI‑Powered Enhancements
+- **Repository Discovery & Contribution Matching**: AI models analyze your skills and past activity to suggest the best projects to contribute to.
+- **Product Filtering & Ranking**: AI‑driven search that intelligently categorizes and scores templates and apps.
+- **Personalized Developer Feeds**: Receive smart notifications and daily digests on trending projects, issues, and gigs.
+- **AI‑Powered Chatbot**: Get real‑time guidance on where to start and how to contribute effectively.
+- **Automated Code & Quality Analysis**: Let AI assess repository documentation, code quality, and activity to help you choose the best projects.
 
 ---
 
-🔗 **Ready to contribute?** Fork the repo and show your power, titans! 💪
+## 💡 Why Build This?
+
+- **GitHub is huge** – finding quality starter projects and templates can be overwhelming.
+- Accelerate project development for **new and seasoned developers alike**.
+- Enhance **open‑source collaboration and monetization** for template and project creators.
+- Leverage AI to intelligently match skills with the right opportunities.
+
+---
+
+## 🚀 Getting Started
+
+1. **Fork the Repository**  
+   Click the **Fork** button on GitHub to create your own copy.
+
+2. **Clone Your Fork**  
+   ```bash
+   git clone https://github.com/git-filter/gitfilter.git
